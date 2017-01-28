@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SecondBoston</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="log_in">Log in</string>
+    <string name="signInTitle">Sign in</string>
+    <string name="passwordMain">Password</string>
+    <string name="write_your_email">Write your email</string>
+    <string name="wrong_login">The account or password is not correct</string>
+    <string name="successfull_login">You have succesfully logged in</string>
+    <string name="register_now_for_free"><u>Register now for free</u></string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="register_text">Register now to access nothing!</string>
+    <string name="valid_email_hint">Insert a valid e-mail direction</string>
+    <string name="choose_a_secure_password">Choose a secure password</string>
+    <string name="submit">Submit</string>
+    <string name="Insert_valid_email">This account already exits</string>
+    <string name="email_pass_wrong">Email or password are wrong</string>
+</resources>
